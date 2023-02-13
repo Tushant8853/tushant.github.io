@@ -1,0 +1,64 @@
+html { 
+    background: url(Project_page.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.project-heading h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 32px;
+    color: #000000;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+  
+.project-three {
+    float: left;
+    width: 30%;
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.project-1 h1{
+    text-align: center;
+}
+
+.project-2 h1{
+    text-align: center;
+}
+
+.project-3 h1{
+    text-align: center;
+}
+
+.project-three{
+    border: 5px solid rgb(135, 123, 44);
+    height: 400px;
+}
+
+.icon{
+    text-align: center;
+}
+
+
+
+
+
+
+

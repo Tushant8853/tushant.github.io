@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 400px;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.row{
+    margin-top: 3%;
+}
+
+.half{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.info-1{
+    margin-left: 300px;
+    margin-top: 60px;
+}
+
+.info-2{
+    margin-top: 60px;
+}
+
+.name-input{
+    padding-bottom: 30px;
+}
+
+.email-input{
+    padding-bottom: 30px;
+}
+
+.subject-input{
+    padding-bottom: 30px;
+}
+
+.msg-input{
+    padding-bottom: 30px;
+
+}
+
+.name-input input{
+    height: 40px;
+}
+
+.email-input input{
+    height: 40px;
+}
+
+.subject-input input{
+    height: 40px;
+}
+
+.msg-input textarea{
+    size: 70px;
+}
+
+.location{
+    padding-bottom: 30px;
+}
+
+.email{
+    padding-bottom: 30px;
+}
+
+.call{
+    padding-bottom: 30px;
+}
+
+.row h1{
+    text-align: center;
+}

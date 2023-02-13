@@ -1,0 +1,160 @@
+html { 
+    background: url(background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+*{
+    box-sizing: border-box;
+}
+  
+
+.Divide-column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.CERTIFICATIONS-sec ul {
+    list-style: none;
+    padding: 0;
+}
+  
+.CERTIFICATIONS-sec ul li {
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.CERTIFICATIONS-sec ul li i{
+    list-style: none;
+    padding: 0;
+}
+  
+.CERTIFICATIONS-sec ul li span {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.AandA-list ul {
+    list-style: none;
+    padding: 0;
+}
+  
+.AandA-list ul li {
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.Resume-heading{
+    margin-left: 40%;
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #45505b;
+}
+
+* {
+    box-sizing: border-box;
+}
+  
+.TECHNICAL_SKILLS-divide_two {
+    float: left;
+    width: 30%;
+    padding: 10px;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.Stength-hobby-two {
+    float: left;
+    width: 40%;
+    padding: 10px;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
